@@ -1,0 +1,6 @@
+@TramaAPI_HostAddress = http://localhost:5022
+
+GET {{TramaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
